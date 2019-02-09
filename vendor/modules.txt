@@ -1,0 +1,17 @@
+# github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da
+github.com/aead/chacha20
+github.com/aead/chacha20/chacha
+# github.com/cyfdecyf/bufio v0.0.0-20130801052708-9601756e2a6b
+github.com/cyfdecyf/bufio
+# github.com/cyfdecyf/color v0.0.0-20130827105946-31d518c963d2
+github.com/cyfdecyf/color
+# github.com/cyfdecyf/leakybuf v0.0.0-20140618011800-ffae040843be
+github.com/cyfdecyf/leakybuf
+# github.com/shadowsocks/shadowsocks-go v0.0.0-20181021152026-49161ddf51fc
+github.com/shadowsocks/shadowsocks-go/shadowsocks
+# golang.org/x/crypto v0.0.0-20190208162236-193df9c0f06f
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/cast5
+golang.org/x/crypto/salsa20/salsa
+# golang.org/x/sys v0.0.0-20190204203706-41f3e6584952
+golang.org/x/sys/cpu
